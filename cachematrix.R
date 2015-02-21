@@ -1,6 +1,8 @@
 ##
-## This file contains two functions which will cache/retrieve a matrix, find the inverse of a matrix and
-## cache/retrieve the inverse.
+## This file contains two functions which are each described in detail below. 
+## The 2 functions are:
+## -makeCacheMatrix()
+## -cacheSolve()
 ##
 ## The 1st function makeCacheMatrx() creates a list of 4 functions which
 ## simply caches a matrix, retrieves the cached matrix, 
